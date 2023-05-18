@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   -  **Unity** 
   -  **Blender** 
   -  **OpenGL**
-- 👯 I’m looking to collaborate on : **GAMEJAM**
+- 👯 I’m looking to collaborate on : 
+  -  **GAMEJAM**
 - 💬 Ask me about anything [here](https://github.com/Archer-du/Archer-du/issues)
-- 📫 How to reach me: https://www.archer-du.top/
+- 📫 How to reach me: [Archer's blog](https://www.archer-du.top/)
 
 ---
 
