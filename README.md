@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-du&theme=radical">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-787.4%20thousand%20lines%20of%20code-blue)
 
@@ -38,12 +38,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+V                        2 hrs 6 mins        █████████████████░░░░░░░░   69.08 % 
+unity                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 17 mins       ███████████████████░░░░░░   74.98 % 
+Unity                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Visual Studio            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
- Last Updated on 2023-05-18 14:43:44 UTC
+ Last Updated on 2023-05-18 16:07:39 UTC
 <!--END_SECTION:waka-->
