@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-du&theme=radical">
+<img align="right" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-du&theme=radical&hide=css,html">
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
