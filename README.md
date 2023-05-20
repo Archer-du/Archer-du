@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 <img align="right" height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-du&theme=radical">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-788.2%20thousand%20lines%20of%20code-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -51,5 +47,5 @@ Visual Studio            3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 2023-05-20 00:37:08 UTC
+ Last Updated on 2023-05-20 02:43:15 UTC
 <!--END_SECTION:waka-->
