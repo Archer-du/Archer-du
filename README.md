@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Archer-du&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img align="right" height="200" src="https://github-readme-stats-d5anlpynl-archer-du.vercel.app/api?username=Archer-du&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
 - 🌱 I’m currently learning video game production : 
   -  **Unity** 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archer-du&theme=radical&hide=css,html">
+<img align="right" height="300" src="https://github-readme-stats-d5anlpynl-archer-du.vercel.app/api/top-langs/?username=Archer-du&theme=radical&hide=css,html">
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
