@@ -34,14 +34,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Lua                      30 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.81 % 
-Other                    1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   31 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.89 % 
-VS Code                  0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.11 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-09-28 00:34:42 UTC
+ Last Updated on 2023-09-29 00:34:47 UTC
 <!--END_SECTION:waka-->
