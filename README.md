@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 <img align="right" height="200" src="https://github-readme-stats-d5anlpynl-archer-du.vercel.app/api?username=Archer-du&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
-- 🌱 I’m currently learning video game production : 
+- 🌱 I’m currently focusing on rendering :
   -  **Unity** 
   -  **Blender** 
-  -  **OpenGL**
+  -  **OpenGL/DX12**
 - 👯 I’m looking to collaborate on : 
   -  **GAMEJAM**
+  -  **CUSGA**
 - 💬 Ask me about anything [here](https://github.com/Archer-du/Archer-du/issues)
 - 📫 How to reach me: [Archer's blog](https://www.archer-du.top/)
 
