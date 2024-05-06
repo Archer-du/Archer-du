@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 47 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 47 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-05-05 00:39:44 UTC
+ Last Updated on 2024-05-06 00:38:02 UTC
 <!--END_SECTION:waka-->
