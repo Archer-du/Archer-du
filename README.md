@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Image (png)              6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-10-16 00:48:08 UTC
+ Last Updated on 2024-10-17 00:47:32 UTC
 <!--END_SECTION:waka-->
