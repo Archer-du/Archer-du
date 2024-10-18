@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <img align="right" height="200" src="https://github-readme-stats-d5anlpynl-archer-du.vercel.app/api?username=Archer-du&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
-- 🌱 I’m currently focusing on rendering :
-  -  **Unity** 
-  -  **Blender** 
-  -  **OpenGL/DX12**
+- 🌱 I’m currently focusing on rendering and gameplay development :
+  -  **Unity**
+  -  **Unreal Engine**
+  -  **OpenGL/DX12/Vulkan**
 - 👯 I’m looking to collaborate on : 
   -  **GAMEJAM**
   -  **CUSGA**
