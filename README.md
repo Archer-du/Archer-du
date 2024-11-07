@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently focusing on rendering and gameplay development :
   -  **Unity**
   -  **Unreal Engine**
-  -  **OpenGL/DX12/Vulkan**
+  -  **Vulkan**
 - 👯 I’m looking to collaborate on : 
   -  **GAMEJAM**
   -  **CUSGA**
