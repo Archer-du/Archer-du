@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-HLSL                     0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-11-06 00:46:58 UTC
+ Last Updated on 2024-11-07 00:47:07 UTC
 <!--END_SECTION:waka-->
