@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Git Config               0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025-04-26 00:52:56 UTC
+ Last Updated on 2025-04-27 00:58:12 UTC
 <!--END_SECTION:waka-->
